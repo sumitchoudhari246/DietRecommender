@@ -1,0 +1,52 @@
+Food_Item,Calories,Fat_g,Protein_g,Carbohydrate_g,Sugar_g,Cholesterol_mg,Suitable_For,Allergens,Food_Type
+Oats,380,7.0,13.0,67.0,1.2,0,Gain|Maintain,Gluten,Veg
+Brown Rice,360,3.2,7.5,76.0,0.6,0,Gain|Maintain,None,Veg
+Quinoa,350,6.1,14.1,64.2,1.6,0,Gain|Maintain,None,Veg
+Sweet Potato,86,0.1,1.6,20.0,4.2,0,Cholesterol|Maintain,None,Veg
+Paneer,265,20.0,18.0,2.0,2.0,60,Gain|Maintain,Lactose,Veg
+Cottage Cheese,200,9.0,20.0,3.0,3.0,30,Gain|Maintain,Lactose,Veg
+Greek Yogurt,59,0.4,10.0,3.6,3.2,5,Gain|Maintain,Lactose,Veg
+Tofu,76,4.8,8.0,1.9,0.3,0,Gain|Maintain,None,Veg
+Spinach,23,0.4,3.0,3.6,0.4,0,Cholesterol|Maintain,None,Veg
+Broccoli,34,0.4,3.0,7.0,1.4,0,Cholesterol|Maintain,Gluten,Veg
+Carrots,41,0.2,0.9,10.0,4.7,0,Diabetes|Obesity,None,Veg
+Cucumber,15,0.1,0.6,3.6,1.7,0,Obesity|Gain,None,Veg
+Beetroot,43,0.2,1.6,10.0,6.8,0,Diabetes|Obesity,None,Veg
+Apple,52,0.2,0.3,14.0,10.0,0,Cholesterol|Maintain,None,Veg
+Banana,96,0.3,1.3,27.0,14.0,0,Gain|Maintain,None,Veg
+Avocado,160,15.0,2.0,9.0,0.7,0,Diabetes|Obesity,None,Veg
+Pumpkin Seeds,559,49.0,30.0,10.0,1.4,0,Obesity|Gain,None,Veg
+Almonds,579,50.0,21.0,22.0,4.4,0,Gain|Maintain,Peanuts,Veg
+Walnuts,654,65.0,15.0,14.0,2.6,0,Gain|Maintain,Peanuts,Veg
+Chia Seeds,486,31.0,17.0,42.0,0.0,0,Obesity|Gain,None,Veg
+Peanut Butter,588,50.0,25.0,20.0,9.0,0,Gain|Maintain,Peanuts,Veg
+Whole Wheat Flour,340,2.5,13.0,72.0,0.4,0,Gain|Maintain,Gluten,Veg
+Soy Milk,54,1.8,3.3,6.3,4.0,0,Gain|Maintain,None,Veg
+Mushrooms,22,0.3,3.1,3.3,1.9,0,Cholesterol|Maintain,None,Veg
+Berries,57,0.3,0.7,14.0,10.0,0,Diabetes|Obesity,None,Veg
+Lentils,116,0.4,9.0,20.0,1.8,0,Diabetes|Obesity,None,Veg
+Egg,155,11.0,13.0,1.1,1.0,373,Gain|Maintain,None,Non-Veg
+Egg White,52,0.2,11.0,0.7,0.2,0,Gain|Maintain,None,Non-Veg
+Salmon,208,13.0,20.0,0.0,0.0,55,Obesity|Gain,None,Non-Veg
+Tuna,132,1.3,28.0,0.0,0.0,45,Gain|Maintain,Gluten,Non-Veg
+Shrimp,99,0.3,24.0,0.2,0.0,189,Gain|Maintain,None,Non-Veg
+Chicken Breast,165,3.6,31.0,0.0,0.0,85,Obesity|Gain,None,Non-Veg
+Turkey Breast,135,3.2,30.0,0.0,0.0,80,Gain|Maintain,None,Non-Veg
+Lamb,250,20.0,25.0,0.0,0.0,90,Gain|Maintain,Peanuts,Non-Veg
+Beef,271,19.0,25.0,0.0,0.0,88,Gain|Maintain,Peanuts,Non-Veg
+Prawns,144,3.0,27.0,0.0,0.0,180,Gain|Maintain,None,Non-Veg
+Crab,97,1.5,21.0,0.0,0.0,53,Gain|Maintain,None,Non-Veg
+Anchovies,210,10.0,29.0,0.0,0.0,85,Gain|Maintain,Gluten,Non-Veg
+Sardines,208,11.0,25.0,0.0,0.0,142,Obesity|Gain,None,Non-Veg
+Cod,105,0.9,23.0,0.0,0.0,43,Gain|Maintain,None,Non-Veg
+Mackerel,205,13.0,19.0,0.0,0.0,70,Gain|Maintain,Gluten,Non-Veg
+Duck,337,28.0,19.0,0.0,0.0,84,Gain|Maintain,Peanuts,Non-Veg
+Goat Meat,143,3.5,27.0,0.0,0.0,75,Gain|Maintain,None,Non-Veg
+Shellfish,85,1.0,18.0,1.0,0.5,65,Gain|Maintain,Lactose,Non-Veg
+Egg Yolk,322,27.0,16.0,3.0,0.5,1085,Gain|Maintain,Lactose,Non-Veg
+Tilapia,129,2.7,26.0,0.0,0.0,56,Cholesterol|Maintain,None,Non-Veg
+Catfish,122,6.0,15.0,0.0,0.0,58,Gain|Maintain,None,Non-Veg
+Rohu Fish,97,2.0,19.0,0.0,0.0,49,Gain|Maintain,Gluten,Non-Veg
+Boiled Chicken,130,3.0,25.0,0.0,0.0,60,Obesity|Gain,None,Non-Veg
+Egg Omelette,154,12.0,11.0,1.0,1.0,260,Gain|Maintain,Lactose,Non-Veg
+Milk Fish,175,9.0,22.0,0.0,0.0,70,Gain|Maintain,None,Non-Veg
