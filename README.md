@@ -2,6 +2,8 @@
 
 An AI-powered Diet Recommender web application that provides personalized diet suggestions based on user health information and fitness goals. Built using Machine Learning, Python, Streamlit, and CSV datasets, the system helps users make informed nutritional choices through an interactive and easy-to-use interface.
 
+[Direct Link To Access Website:](https://dietrecommender.streamlit.app/)
+
 ## 🚀 Features
 
 - Personalized diet recommendations
